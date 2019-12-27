@@ -1,0 +1,20 @@
+#rendu{
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #5b4c6d;
+  
+}
+#outil{
+  background-color: #5b4c6d;
+  min-height: 500px;
+  color: #FFF;
+}
+h1, h2{
+  text-align: center;
+}
+.card-deck .card {
+  min-width: 220px;
+}
+span{color: red;}
+input{background-color : white ;}
+label{display: block; width: 200px; float: left;}
